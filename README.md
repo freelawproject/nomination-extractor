@@ -5,7 +5,7 @@ This is a tool for extracting the nominations from Senate records using
 machine learning.
 
 
-###Quick Start
+### Quick Start
 
 To begin with my computer does not currently make it easy to install tensorflow
 so I had to use conda - something I had not done before.
